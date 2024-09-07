@@ -1,4 +1,4 @@
-export const Navdata = [
+export const Navdata: Navdata[] = [
   {
     name: "Home",
     link: "/",
